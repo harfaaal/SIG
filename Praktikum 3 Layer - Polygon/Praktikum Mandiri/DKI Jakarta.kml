@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>DKI Jakarta</name>
+    <NetworkLink>
+      <name>Praktikum 3 SIG</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=15oV0_yk6huNG4jSvygyX_crWg1FQGkU&lid=BM-H_5zk_0Q]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
